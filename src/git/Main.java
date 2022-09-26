@@ -2,7 +2,8 @@ package git;
 
 public class Main {
 	public static void main(String[] args) {
-		String s = "hello world"; System.out.println(s);
+		String s = "hello world";
+		System.out.println(s);
 	}
 
 }
